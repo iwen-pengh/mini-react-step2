@@ -1,0 +1,20 @@
+{
+  "name": "mini-react-step1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/plugin-transform-react-jsx": "^7.12.17",
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
